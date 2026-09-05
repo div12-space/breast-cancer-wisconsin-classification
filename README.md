@@ -12,7 +12,7 @@ The goal is to build and compare supervised machine-learning models while focusi
 
 ### Logistic Regression
 
-![Logistic Regression Confusion Matrix](images/logistic_regression.png)
+![Logistic Regression Confusion Matrix](images/logistic_confusion_regression.png)
 
 ### Random Forest
 
