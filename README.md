@@ -1,7 +1,10 @@
 # Breast Cancer Wisconsin Classification
 
 This project classifies breast tumours as **benign** or **malignant** using the Breast Cancer Wisconsin (Diagnostic) dataset. It compares Logistic Regression and Random Forest using accuracy, precision, recall, F1-score, ROC-AUC, confusion matrices, and feature importance.
+## Author
 
+**Divyanshu Beniwal**  
+B.Tech Data Science student
 ## Project objective
 
 The goal is to build and compare supervised machine-learning models while focusing on a clinically important error: predicting a malignant tumour as benign (a false negative).
@@ -136,7 +139,4 @@ Alternatively, open the notebook in Google Colab and run its cells from top to b
 - Compare calibrated probability estimates.
 - Evaluate the final model on an independent dataset.
 
-## Author
 
-**Divyanshu Beniwal**  
-B.Tech Data Science student
