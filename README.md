@@ -8,6 +8,15 @@ The goal is to build and compare supervised machine-learning models while focusi
 
 > This is an educational machine-learning project. The models are not validated for clinical diagnosis or medical decision-making.
 
+
+### Logistic Regression
+![Logistic Regression Confusion Matrix](images/logistic_regression.png)
+
+
+### Random Forest
+![Logistic Regression Confusion Matrix](images/random_forest_confusion_matrix.png)
+
+
 ## Dataset
 
 - Dataset: Breast Cancer Wisconsin (Diagnostic)
