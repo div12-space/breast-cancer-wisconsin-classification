@@ -8,19 +8,15 @@ The goal is to build and compare supervised machine-learning models while focusi
 
 > This is an educational machine-learning project. The models are not validated for clinical diagnosis or medical decision-making.
 
+## Confusion Matrix Comparison
 
 ### Logistic Regression
-<p align="center">
-  <img src="images/logistic_regression.png"
-       alt="Logistic Regression"
-       width="750">
-</p>
+
+![Logistic Regression Confusion Matrix](images/logistic_confusion_matrix.png)
 
 ### Random Forest
-<p align="center">
-  <img src="images/random_forest_confusion_matrix.png"
-       alt="Random Forest"
-       width="750">
+
+![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
 
 ## Dataset
 
